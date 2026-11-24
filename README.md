@@ -6,7 +6,7 @@ A machine learning mini project that predicts the **house price per unit area** 
 
 ## Links
 
-- **Deployed app:** _add your Streamlit link here after deploying_
+- **Deployed app:** https://house-price-predictor-c4dvuqicgrewj5hdxff4nn.streamlit.app/
 - **GitHub repository:** https://github.com/mahipaldudi0905-cloud/house-price-predictor
 
 ## Problem statement
